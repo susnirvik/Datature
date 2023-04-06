@@ -17,3 +17,6 @@ Shapely==1.7.1
 tensorflow==2.10.0
 torch == 1.12.1
 torchvision == 0.13.1
+cd portal
+pip3 install -r requirements.txt
+./setup.sh
